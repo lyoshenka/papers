@@ -12,6 +12,8 @@ Measures of Semantic Relatedness (MSRs) are a recent breed of computational mode
 
 [PDF](https://github.com/lyoshenka/papers/raw/master/a-proxy-for-all-your-semantic-needs.pdf)
 
+Measures of Semantic Relatedness (MSRs) are computational means for assessing the relative meaning of terms. More specifically, MSRs take the form of computer programs that can extract relatedness between any two terms based on large text corpora. Among the many contributions of MSRs are cognitive modeling applications (e.g. Pirolli & Fu, 2003), augmented search engine technology (e.g. Dumais, 2003), and essay grading algorithms used by ETS (e.g. Landauer & Dumais, 1997). Here we introduce an ongoing effort to centralize and unify MSR technology – a publicly available MSR Web Server
+
 *Veksler, V. D., Grintsvayg, A., Lindsey, R., & Gray, W. D. (2007). A proxy for all your semantic needs. Proceedings of the 29th Annual Meeting of the Cognitive Science Society, Nashville, TN.*
 
 ## Be Wary of What Your Computer Reads: The Effects of Corpus Selection on Measuring Semantic Relatedness
