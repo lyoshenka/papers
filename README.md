@@ -31,3 +31,14 @@ Measures of Semantic Relatedness (MSRs) provide models of human semantic associa
 A significant challenge for computational cognitive modeling is to develop high-fidelity models of web surfing. To successfully model the entire task both software and cognitive engineering problems must be solved. At ACT-R-2005, we addressed some of the software engineering challenges posed by the task of attaching an ACT-R model to a web browser (Gamard, Schoelles, Kofila, Veksler, & Gray, 2005). In this talk we focus on the cognitive engineering challenges posed by the need to navigate and search a near infinite number of heterogeneously designed web pages in pursuit of a weakly specified target.
 
 *Schoelles, M. J., Gray, W. D., Veksler, V. D., Gamard, S., & Grintsvayg, A. (2006, July). Cognitive modeling of web search. Paper presented at the 13th Annual ACT-R Workshop, Carnegie Mellon University, Pittsburgh, PA.*
+
+
+---
+
+*Related, by Dan, Ryan and Wayne:*
+
+## Defining the Dimensions of the Human Semantic Space
+
+[PDF](https://github.com/lyoshenka/papers/raw/master/pp718-veksler.pdf)
+
+We describe VGEM, a technique for converting probability-based measures of semantic relatedness (e.g. Normalized Google Distance, Pointwise Mutual Information) into a vector-based form to allow these measures to evaluate relatedness of multi-word terms (documents, paragraphs). We use a genetic algorithm to derive a set of 300 dimensions to represent the human semantic space. With the resulting dimension sets, VGEM matches or outperforms the probability-based measure, while adding the multi-word term functionality. We test VGEM's performance on multi-word terms against Latent Semantic Analysis and find no significant difference between the two measures. We conclude that VGEM is more useful than probability-based measures because it affords better performance, and provides relatedness between multi-word terms; and that VGEM is more useful than other vector-based measures because it is more computationally feasible for large, dynamic corpora (e.g. WWW), and thus affords a larger, dynamic lexicon.
