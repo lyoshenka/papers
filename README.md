@@ -24,3 +24,10 @@ Measures of Semantic Relatedness (MSRs) provide models of human semantic associa
 
 *Lindsey, R., Veksler, V. D., Grintsvayg, A., & Gray, W. D. (2007). Effects of Corpus Selection on Measuring Semantic Relatedness. Proceedings of the 8th International Conference on Cognitive Modeling, Ann Arbor, MI.*
 
+## Cognitive Modeling of Web Search
+
+[PDF](https://github.com/lyoshenka/papers/raw/master/SGVGG06_ACTR.pdf)
+
+A significant challenge for computational cognitive modeling is to develop high-fidelity models of web surfing. To successfully model the entire task both software and cognitive engineering problems must be solved. At ACT-R-2005, we addressed some of the software engineering challenges posed by the task of attaching an ACT-R model to a web browser (Gamard, Schoelles, Kofila, Veksler, & Gray, 2005). In this talk we focus on the cognitive engineering challenges posed by the need to navigate and search a near infinite number of heterogeneously designed web pages in pursuit of a weakly specified target.
+
+*Schoelles, M. J., Gray, W. D., Veksler, V. D., Gamard, S., & Grintsvayg, A. (2006, July). Cognitive modeling of web search. Paper presented at the 13th Annual ACT-R Workshop, Carnegie Mellon University, Pittsburgh, PA.*
