@@ -1,6 +1,6 @@
 These are papers that I wrote or was a part of writing during my undergrad cogsci research.
 
-## Vector Generation of an Explicitly-defined Multidimensional Semantic Space
+### Vector Generation of an Explicitly-defined Multidimensional Semantic Space
 
 [PDF](https://github.com/lyoshenka/papers/raw/master/grintsvayg07iccm.pdf)
 
@@ -10,7 +10,7 @@ In this paper we propose a new MSR that combines the best features of probabilis
 
 *Grintsvayg, A., Veksler, V. D., Lindsey, R., & Gray, W. D. (2007). Vector Generation from an Explicitly-defined Multidimensional Space. Proceedings of the 8th International Conference on Cognitive Modeling, Ann Arbor, MI.*
 
-## A Proxy For All Your Semantic Needs
+### A Proxy For All Your Semantic Needs
 
 [PDF](https://github.com/lyoshenka/papers/raw/master/a-proxy-for-all-your-semantic-needs.pdf)
 
@@ -18,7 +18,7 @@ Measures of Semantic Relatedness (MSRs) are computational means for assessing th
 
 *Veksler, V. D., Grintsvayg, A., Lindsey, R., & Gray, W. D. (2007). A proxy for all your semantic needs. Proceedings of the 29th Annual Meeting of the Cognitive Science Society, Nashville, TN.*
 
-## Be Wary of What Your Computer Reads: The Effects of Corpus Selection on Measuring Semantic Relatedness
+### Be Wary of What Your Computer Reads: The Effects of Corpus Selection on Measuring Semantic Relatedness
 
 [PDF](https://github.com/lyoshenka/papers/raw/master/LindVeksGrintGray07_ICCM-libre.pdf)
 
@@ -26,7 +26,7 @@ Measures of Semantic Relatedness (MSRs) provide models of human semantic associa
 
 *Lindsey, R., Veksler, V. D., Grintsvayg, A., & Gray, W. D. (2007). Effects of Corpus Selection on Measuring Semantic Relatedness. Proceedings of the 8th International Conference on Cognitive Modeling, Ann Arbor, MI.*
 
-## Cognitive Modeling of Web Search
+### Cognitive Modeling of Web Search
 
 [PDF](https://github.com/lyoshenka/papers/raw/master/SGVGG06_ACTR.pdf)
 
@@ -39,7 +39,7 @@ A significant challenge for computational cognitive modeling is to develop high-
 
 *Related, by Dan, Ryan and Wayne:*
 
-## Defining the Dimensions of the Human Semantic Space
+### Defining the Dimensions of the Human Semantic Space
 
 [PDF](https://github.com/lyoshenka/papers/raw/master/pp718-veksler.pdf)
 
