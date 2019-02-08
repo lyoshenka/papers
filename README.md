@@ -4,7 +4,7 @@ These are papers that I wrote or was a part of writing during my undergrad cogsc
 
 [PDF](https://github.com/lyoshenka/papers/raw/master/grintsvayg07iccm.pdf)
 
-Measures of Semantic Relatedness (MSRs) are a recent breed of computational models of text comprehension. MSRs have been successfully used to model human web browsing behavior, language acquisition, and text comprehension , among other things. MSRs have also been used in the applied domain for augmented search engine technology, ETS essay grading, and many other applications. 
+Measures of Semantic Relatedness (MSRs) are a recent breed of computational models of text comprehension. MSRs have been successfully used to model human web browsing behavior, language acquisition, and text comprehension, among other things. MSRs have also been used in the applied domain for augmented search engine technology, ETS essay grading, and many other applications. 
 
 In this paper we propose a new MSR called VGEM that combines the best features of probabilistic and vector-based approaches, while adding flexibility and broadening the range of tasks that MSRs are capable of carrying out. Specifically, this technique allows non-vector-based MSRs to represent words in vector form. Preliminary results show that this conversion produces a measure that surpasses the performance of the original.
 
