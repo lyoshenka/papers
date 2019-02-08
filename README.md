@@ -1,4 +1,4 @@
-These are papers that I wrote or was a part of writing during my undergrad cogsci research.
+*These are papers that I wrote or participated in during my undergrad cognitive science research.*
 
 ### Vector Generation of an Explicitly-defined Multidimensional Semantic Space
 
