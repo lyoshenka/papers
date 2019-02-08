@@ -6,6 +6,8 @@ These are papers that I wrote or was a part of writing during my undergrad cogsc
 
 Measures of Semantic Relatedness (MSRs) are a recent breed of computational models of text comprehension. MSRs have been successfully used to model human web browsing behavior (Pirolli & Fu, 2003), language acquisition (Landauer & Dumais, 1997), and text comprehension (Lemaire, Denhiere, Bellissens, & Jhean- Iarose, 2006), among other things. MSRs have also been used in the applied domain for augmented search engine technology (Dumais, 2003), ETS essay grading (Landauer & Dumais, 1997), and many other applications.
 
+In this paper we are proposing a new MSR that combines the best features of probabilistic and vector-based approaches, while adding flexibility and broadening the range of tasks that MSRs are capable of carrying out.
+
 *Grintsvayg, A., Veksler, V. D., Lindsey, R., & Gray, W. D. (2007). Vector Generation from an Explicitly-defined Multidimensional Space. Proceedings of the 8th International Conference on Cognitive Modeling, Ann Arbor, MI.*
 
 ## A Proxy For All Your Semantic Needs
