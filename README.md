@@ -1,3 +1,23 @@
+# My Papers
+
+
+## LBRY
+
+### LBRY: A Blockchain-Based Decentralized Digital Content Marketplace
+
+[PDF](https://github.com/lyoshenka/papers/raw/master/lbry-ieeedapps2020-official.pdf)
+
+Despite the critical need of publishing and consuming content online, a centralized content platform such as Amazon or Youtube may not always have their policy and practice aligned with the interest of their users and could be rent-seeking, censorious, and frequently exploitative, whereas a peer-to-peer solution such as BitTorrent may suffer from issues of content discovery, legitimacy, monetization, verifiable publisher identity, and poor user experience.
+
+In this paper, to improve significantly over both options, we propose a new approach called LBRY that enables a decentralized online content marketplace. In particular, it uses a blockchain to build a decentralized content platform controlled by the community, and allows its users to publish, host, find, access, download, and pay for content with ease. LBRY introduces a new naming scheme that gives users the full control of the names of their content, and uses a blockchain to not only support a digital currency (LBC) and transparent decentralized ledger, but also allow every user to access a synchronized name space and a global index of content metadata, thus supporting a new paradigm of digital content distribution. We detail how LBRY works in this paper, including how it designs its data structures for content, content metadata, and a novel content naming space; how it uses the blockchain to manage and synchronize the name space and implement an index for content metadata in order to support content sharing and purchase; and how it handles several issues in running LBRY.
+
+*J. Li, A. Grintsvayg, J. Kauffman and C. Fleming, "LBRY: A Blockchain-Based Decentralized Digital Content Marketplace," 2020 IEEE
+International Conference on Decentralized Applications and Infrastructures (DAPPS), Oxford, United Kingdom, 2020, pp. 42-51, doi:
+10.1109/DAPPS49028.2020.00005.*
+
+
+## Undergrad
+
 *These are papers that I wrote or participated in during my undergrad cognitive science research.*
 
 ### Vector Generation of an Explicitly-defined Multidimensional Semantic Space
